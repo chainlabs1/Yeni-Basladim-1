@@ -53,4 +53,4 @@ Kredi Kartı ( ön ödemeli kart kabul ediyor)
 
 Not: İlk kayıtta kredi kartından 2 Usd gibi bir ücreti çekebilir, sonrasında iade ediliyor.
 
-### Kayıt Linki: [Kamatera](https://www.linode.com/)
+### Kayıt Linki: [Linode](https://www.linode.com/)
